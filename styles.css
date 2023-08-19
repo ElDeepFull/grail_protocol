@@ -112,6 +112,7 @@ a:hover{
 
  }
 
+
  .items p{
     text-align: center;
  }
@@ -124,6 +125,10 @@ a:hover{
     display: flex;
     justify-content: center;
     flex-direction: column;
+ }
+ .items-one img{
+   width: auto;
+   height: 200px;
  }
 
 #quote{
