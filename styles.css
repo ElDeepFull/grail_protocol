@@ -10,6 +10,7 @@
 
 a{
     text-decoration: none;
+    color: white;
 }
 a:hover{
     color: white;
@@ -128,7 +129,7 @@ a:hover{
  }
  .items-one img{
    width: auto;
-   height: 0;
+   height: 200px;
  }
 
 #quote{
